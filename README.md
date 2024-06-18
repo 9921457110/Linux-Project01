@@ -1,2 +1,2 @@
 # Linux-Project01
-Basic RHEL PRoject
+Basic RHEL Project
