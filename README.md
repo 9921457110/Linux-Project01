@@ -1,5 +1,3 @@
-# Linux-Project01
-Basic RHEL Project
 # RHEL-Project-01
 Basic RHEL Project
 
